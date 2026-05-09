@@ -4,9 +4,9 @@
   "name": "BRIGARI Docs",
   "description": "Documentación oficial de BRIGARI: Guías de plataforma, magazine y recursos.",
   "colors": {
-    "primary": "#166E3F",
-    "light": "#26BD6C",
-    "dark": "#166E3F"
+    "primary": "#7A2E2E",
+    "light": "#A55A52",
+    "dark": "#4B1C1C"
   },
   "favicon": "/favicon.ico",
   "icons": {
