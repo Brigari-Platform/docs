@@ -23,15 +23,10 @@
       {
         "group": "Inicio",
         "pages": [
-          "bienvenida"
+          "bienvenida",
+          "como-funciona-brigari"
         ]
-      },
-      {
-      "group": "Cómo funciona BRIGARI",
-      "pages": [
-        "como-funciona-brigari"
-      ]
-     }
+      }
     ]
   },
   "logo": {
