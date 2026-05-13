@@ -24,7 +24,8 @@
         "group": "Inicio",
         "pages": [
           "bienvenida",
-          "como-funciona-brigari"
+          "como-funciona-brigari",
+          "restaurantes"
         ]
       }
     ]
