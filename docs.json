@@ -19,34 +19,69 @@
     "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
   },
   "navigation": {
-    "groups": [
-      {
-        "group": "Inicio",
-        "pages": [
-          "brigari-docs",
-          "como-funciona-brigari",
-          "restaurantes",
-          "acuerdo-de-vinculacion",
-          "magazine",
-          "lineamientos-editoriales",
-          "recursos-y-apoyo",
-          "que-es-brigari",
-          "como-organizamos-restaurantes",
-          "como-usar-brigari",
-          "participacion",
-          "gestionar-un-restaurante",
-          "proponer-un-restaurante",
-          "que-es-brigari-magazine",
-          "como-enviar-articulos",
-          "rutas-gastronomicas",
-          "preguntas-frecuentes",
-          "cuenta-brigari",
-          "crear-una-cuenta",
-          "iniciar-sesion"
-        ]
-      }
-    ]
-  },
+  "groups": [
+    {
+      "group": "Inicio",
+      "pages": [
+        "brigari-docs"
+      ]
+    },
+    {
+      "group": "Cómo funciona BRIGARI",
+      "pages": [
+        "como-funciona-brigari",
+        "que-es-brigari",
+        "como-organizamos-restaurantes",
+        "como-usar-brigari",
+        "participacion"
+      ]
+    },
+    {
+      "group": "Restaurantes",
+      "pages": [
+        "restaurantes",
+        "gestionar-un-restaurante",
+        "proponer-un-restaurante",
+        "acuerdo-de-vinculacion"
+      ]
+    },
+    {
+      "group": "Cuenta BRIGARI",
+      "pages": [
+        "cuenta-brigari",
+        "crear-una-cuenta",
+        "iniciar-sesion"
+      ]
+    },
+    {
+      "group": "Rutas gastronómicas",
+      "pages": [
+        "rutas-gastronomicas"
+      ]
+    },
+    {
+      "group": "Magazine",
+      "pages": [
+        "magazine",
+        "que-es-brigari-magazine",
+        "como-enviar-articulos",
+        "lineamientos-editoriales"
+      ]
+    },
+    {
+      "group": "Recursos y apoyo",
+      "pages": [
+        "recursos-y-apoyo"
+      ]
+    },
+    {
+      "group": "FAQ",
+      "pages": [
+        "preguntas-frecuentes"
+      ]
+    }
+  ]
+},
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
