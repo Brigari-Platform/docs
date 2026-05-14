@@ -37,9 +37,9 @@
       ]
     },
     {
-      "group": "Restaurantes",
+      "group": "Guía de Restaurantes",
       "pages": [
-        "restaurantes",
+        "guia-de-restaurantes",
         "gestionar-un-restaurante",
         "proponer-un-restaurante",
         "acuerdo-de-vinculacion"
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "group": "Rutas gastronómicas",
+      "group": "Rutas Gastronómicas",
       "pages": [
         "rutas-gastronomicas"
       ]
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "Recursos y apoyo",
+      "group": "Recursos y Apoyo",
       "pages": [
         "recursos-y-apoyo"
       ]
