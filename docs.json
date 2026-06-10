@@ -8,7 +8,10 @@
     "light": "#A55A52",
     "dark": "#4B1C1C"
   },
-  "favicon": "/favicon.ico",
+  "favicon": {
+    "light": "/images/BRIGARI_TRANSPARENTVINO-02.svg",
+    "dark": "/images/BRIGARI_TRANSPARENTMARFIL-02.svg"
+  },
   "icons": {
     "library": "lucide"
   },
@@ -83,8 +86,9 @@
   ]
 },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/BRIGARI_TRANSPARENTVINO-05.svg",
+    "dark": "/images/BRIGARI_TRANSPARENTMARFIL-05.svg",
+    "href": "https://brigari.com/"
   },
   "navbar": {
     "links": [],
